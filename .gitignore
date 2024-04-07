@@ -10,6 +10,9 @@
 *.lof
 *.lot
 
+*.fdb_latexmk
+*.fls
+
 # Ignora los archivos generados por BibTeX
 *.bbl
 *.blg
