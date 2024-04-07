@@ -19,3 +19,6 @@
 
 # Ignora los archivos de respaldo de editores de texto
 *~
+
+# Ignora los archivos de macOS
+.DS_Store
