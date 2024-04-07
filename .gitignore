@@ -1,0 +1,21 @@
+# Archivos .gitignore para un proyecto LaTeX
+
+# Ignora los archivos generados por la compilación de LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+
+# Ignora los archivos generados por BibTeX
+*.bbl
+*.blg
+
+# Ignora los archivos generados por pdfTeX
+*.pdf
+
+# Ignora los archivos de respaldo de editores de texto
+*~
